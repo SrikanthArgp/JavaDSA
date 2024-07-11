@@ -1,4 +1,4 @@
-package com.uttara.lsort;
+package com.srikanth.lsort;
 
 public class Node {
 	
